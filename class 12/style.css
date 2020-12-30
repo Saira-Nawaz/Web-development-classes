@@ -1,0 +1,23 @@
+p::first-letter
+{
+	text-align: center;
+	border: 2px solid red;
+	padding: 20px;
+	margin: 200px;
+	border-color: red blue hotpink darkcyan;
+	font-size: 30px;
+	font-style: oblique;
+	background-color: gray;
+	color: red;
+	font-weight: bold;
+	text-transform: capitalize;
+	text-decoration: blink;
+	text-shadow: 2px 2px 0px blue;
+	line-height: 50px;
+	letter-spacing: 5px;
+	word-spacing: 10px;
+	text-indent: 30px;
+
+
+}
+

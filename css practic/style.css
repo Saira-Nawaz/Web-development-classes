@@ -1,0 +1,11 @@
+h1 { color: #000;
+background-color: blue}
+
+.name {
+color: brown;
+background-color: blueviolet;
+}
+* {
+
+    background-color: cyan;
+}

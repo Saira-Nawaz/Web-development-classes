@@ -1,0 +1,22 @@
+/* div {
+height: 400px;
+width: 100%;
+background-color: #bbbbaa;}
+p {
+min-height: 75%;
+min-width: 75%;
+background-color: #0088dd;} */
+.one{
+max-width: 30%;
+max-height: 40%;
+background: red;
+overflow: scroll;
+}
+h2{
+	border: 4px solid black;
+	/* padding: 30px; */
+	padding-left: 30px;
+	padding-bottom: 50px;
+	margin-left: 50px;
+	
+}

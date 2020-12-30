@@ -1,0 +1,22 @@
+h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 20px;
+    text-transform: uppercase;
+    text-indent: -100px;
+}
+
+h2 {
+font-size: 35px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+word-spacing: 30px;
+
+}
+p{
+    font-weight: bold;
+    font-style: italic;
+    text-transform: capitalize;
+    text-decoration: blink;
+    letter-spacing: 10px;
+    text-shadow: 5px 1px 3px red;
+
+}

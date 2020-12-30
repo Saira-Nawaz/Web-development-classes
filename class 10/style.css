@@ -1,0 +1,14 @@
+p::first-line{
+    font-size: 60px;
+}
+a:link{
+    color: orange;
+    text-decoration: none;
+}
+a:hover{
+    color: orchid;
+}
+a:active{
+    color: palegreen;
+    font-size: 30px;
+}
